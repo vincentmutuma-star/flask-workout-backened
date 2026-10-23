@@ -1,0 +1,7 @@
+server/venv/
+__pycache__/
+*.pyc
+instance/
+*.db
+.Python
+Pipfile.lock
